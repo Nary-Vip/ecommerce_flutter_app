@@ -2,7 +2,6 @@ import 'package:basics/models/catalog.dart';
 import 'package:flutter/material.dart';
 import 'package:basics/widgets/drawer.dart';
 import 'package:flutter/services.dart';
-import '../widgets/item_widget.dart';
 import "dart:convert";
 
 class HomePage extends StatefulWidget {
